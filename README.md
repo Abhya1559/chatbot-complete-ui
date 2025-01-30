@@ -43,7 +43,6 @@ This project demonstrates the creation of a mobile-responsive UI/UX for setting 
     -   Tailwind CSS (for styling)
     -   JavaScript (for dynamic interactions)
 -   **Backend (Assumed for the demo):**
-    -   Flask (for handling API requests)
     -   Dummy data for webpage scraping and chatbot training.
 
 ## Installation
