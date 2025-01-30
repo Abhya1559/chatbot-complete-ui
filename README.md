@@ -53,7 +53,7 @@ This project demonstrates the creation of a mobile-responsive UI/UX for setting 
     
     CopyEdit
     
-    `git clone https://github.com/yourusername/beyondchats-chatbot-setup.git` 
+    `git clone https://github.com/Abhya1559/chatbot-complete-ui/tree/master` 
     
 2.  Navigate to the project directory:
     
